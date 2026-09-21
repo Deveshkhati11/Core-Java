@@ -9,3 +9,6 @@ out/
 # OS files
 .DS_Store
 Thumbs.db
+
+#Vs code 
+.vscode
