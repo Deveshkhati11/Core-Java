@@ -348,7 +348,6 @@ Enum/
 ├── EnumConstructor.java
 ├── EnumMethods.java
 ├── EnumSwitch.java
-├── EnumMethodsDemo.java
 ├── EnumInterface.java
 └── README.md
 ```
